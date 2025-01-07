@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.cabecalho{
+  background-color: #e2c9d3;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@font-face{
+  font-family: 'Cinzel-Regular';
+  src:url('assets/Cinzel-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+h1{
+  color: #fff;
+  font-family: 'Cinzel-Regular';
+}
+
