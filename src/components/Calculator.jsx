@@ -57,7 +57,7 @@ export default function Calculator() {
     }
 
     return (
-        <Box m={(5)}>
+        <Box m={(4)}>
             <Container maxWidth="xs">
                 <div className="calculadora">
                     <Box m={(1)}>

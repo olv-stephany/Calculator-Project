@@ -45,3 +45,16 @@ h2{
     color: #545454;
 }
 
+@media screen and (max-width: 600px) {
+    .MuiBox-root.css-1qapnz0{
+        width: 100px;
+        margin: 10px 0 0;
+    }
+    .MuiContainer-root.MuiContainer-maxWidthXs.css-mzavur-MuiContainer-root{
+        padding: 10px;
+    }
+    .calculadora{
+        width: 390px;
+    }
+}
+
