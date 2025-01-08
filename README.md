@@ -30,6 +30,8 @@ some of my knowledge about deploying to GitHub Pages.
 
 <div>
   
+  ![image](https://github.com/user-attachments/assets/52b0c3e7-fe2e-45f9-9233-43779b9ffefe)
+
 </div>
 
 ---
