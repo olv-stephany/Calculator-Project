@@ -26,7 +26,7 @@ some of my knowledge about deploying to GitHub Pages.
 
 ---
 
-#### **Project Images** 🖼️
+### **Project Images** 🖼️
 
 <div>
   
